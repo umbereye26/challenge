@@ -1,0 +1,11 @@
+button{
+    border: none;
+    margin-top: 20px;
+    color: aliceblue;
+    width: 200px;
+    border-radius: 5px;
+    height: 20px;
+}
+#increment-btn{
+    background-color: brown;
+}
